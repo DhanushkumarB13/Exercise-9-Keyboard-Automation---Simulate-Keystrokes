@@ -1,7 +1,7 @@
 # Exercise-9-Keyboard-Automation---Simulate-Keystrokes
 ~~~
-Name : M.JohnPall  
-Reg.No : 212224040140  
+Name : FRANKLIN.F  
+Reg.No : 212224240041
 ~~~
 
 ## Aim
