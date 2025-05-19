@@ -1,7 +1,7 @@
 # Exercise-9-Keyboard-Automation---Simulate-Keystrokes
 ~~~
-Name : FRANKLIN.F  
-Reg.No : 212224240041
+Name : B. DHANUSH KUMAR
+Reg.No : 212224240034
 ~~~
 
 ## Aim
